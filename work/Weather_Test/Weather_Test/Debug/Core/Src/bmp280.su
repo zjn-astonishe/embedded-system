@@ -1,0 +1,5 @@
+bmp280.c:11:9:bmp280_Read	32	static
+bmp280.c:21:6:bmp280_Write	32	static
+bmp280.c:42:6:bmp280_init	16	static
+bmp280.c:101:6:bmp280_getTemperature	152	static
+bmp280.c:122:6:bmp280_getAtmosPressure	152	static

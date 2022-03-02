@@ -1,0 +1,15 @@
+EPD_4in2.c:271:13:EPD_4IN2_Reset	8	static
+EPD_4in2.c:294:13:EPD_4IN2_SendCommand	16	static
+EPD_4in2.c:307:13:EPD_4IN2_SendData	16	static
+EPD_4in2.c:319:6:EPD_4IN2_ReadBusy	8	static
+EPD_4in2.c:334:13:EPD_4IN2_TurnOnDisplay	8	static
+EPD_4in2.c:345:13:EPD_4IN2_SetLut	16	static
+EPD_4in2.c:374:13:EPD_4IN2_Partial_SetLut	16	static
+EPD_4in2.c:404:13:EPD_4IN2_4Gray_lut	16	static
+EPD_4in2.c:443:6:EPD_4IN2_Init	8	static
+EPD_4in2.c:483:6:EPD_4IN2_Init_4Gray	8	static
+EPD_4in2.c:523:6:EPD_4IN2_Clear	24	static
+EPD_4in2.c:551:6:EPD_4IN2_Display	24	static
+EPD_4in2.c:567:6:EPD_4IN2_PartialDisplay	40	static
+EPD_4in2.c:617:6:EPD_4IN2_4GrayDisplay	32	static
+EPD_4in2.c:708:6:EPD_4IN2_Sleep	8	static
